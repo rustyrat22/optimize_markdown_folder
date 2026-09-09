@@ -74,6 +74,7 @@ Run a final pass:
 - Should we always physically move files, or support a dry-run/report-only mode first?
 - Should the folder names follow section names from `tools.json`, or be configurable maps?
 - Should the article folder include its `assets/`, or should assets be centralized?
+- Are there folders that should not be moved, have articles/assets removed/copied/changed?
 
 ## Project Structure Reference (current)
 ```
